@@ -185,7 +185,7 @@ nav .nav-item {
   .homeImg {
     position: absolute;
     top: 52%;
-    left: 35%;
+    left: 15%;
     width: 450px;
     background-color: #ffffff;
     border-radius: 21px;
@@ -244,7 +244,7 @@ nav .nav-item {
   .homeImg {
     position: absolute;
     top: 45%;
-    left: 36%;
+    left: 16%;
     background-color: #ffffff;
     border-radius: 21px;
     opacity: 50%;
